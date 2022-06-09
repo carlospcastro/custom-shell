@@ -1,2 +1,2 @@
-# custom-shell
-Custom MacOs terminal
+# ZSH - MacOs
+
